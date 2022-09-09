@@ -3,12 +3,12 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
 	int a;
-	long init b;
+	long int b;
 	long long int c;
 	char d;
 	float f;
